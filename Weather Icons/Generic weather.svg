@@ -1,23 +1,23 @@
-<svg width="50" height="50" version="1.1" viewBox="0 0 13.23 13.23" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-4.803e-7 5.206e-5)" stroke="#000">
-  <g transform="matrix(1.001 0 0 1 -.2678 -.2646)" stroke-linecap="round" stroke-linejoin="round">
-   <path d="m10.72 10.98 1.323-1.323v-1.588l-1.058-1.058-2.646-1.323-1.058-2.117-0.7938-0.7938-2.381 1e-7 -0.5292 0.5292-0.7938 1.587-1.058 0.5292-1.058 1.058v3.175l1.323 1.323z" fill="#fff" stroke-width=".7936"/>
-   <path d="m8.599 5.953-1.587-0.7938-2.117 1.058-0.3969 0.7937" fill="none" stroke-width=".529"/>
+<svg width="50" height="50" version="1.1" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+ <g stroke="#000">
+  <g stroke-linecap="round" stroke-linejoin="round">
+   <path d="m39.54 40.5 5.005-5v-6.002l-4.002-3.998-10.01-5-4.002-8.001-3.003-3-9.007 4e-7 -2.002 2-3.003 5.998-4.002 2-4.002 3.998v12l5.005 5z" fill="#fff" stroke-width="3"/>
+   <path d="m31.52 21.5-6.004-3-8.009 3.998-1.502 3" fill="none" stroke-width="2"/>
   </g>
-  <g fill="#fff">
-   <path d="m9.924 1.058v-0.6551" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5292"/>
-   <path d="m9.313 2.117h1.222l0.7127 0.7123v1.221l-0.7127 0.7123h-1.222l-0.7127-0.7123v-1.221z" stroke-linecap="square" stroke-width=".5292"/>
-   <g stroke-linecap="round" stroke-linejoin="round" stroke-width=".5292">
-    <path d="m11.51 1.72 0.5244-0.5241"/>
-    <path d="m12.31 3.44h0.6555"/>
-    <path d="m11.51 5.159 0.5244 0.5241"/>
-    <path d="m8.336 1.72-0.5244-0.5241"/>
+  <g fill="#fff" stroke-width="2">
+   <path d="m37.51 3.999v-2.476" stroke-linecap="round" stroke-linejoin="round"/>
+   <path d="m35.2 8.001h4.618l2.694 2.692v4.615l-2.694 2.692h-4.618l-2.693-2.692v-4.615z" stroke-linecap="square"/>
+   <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="m43.5 6.501 1.982-1.981"/>
+    <path d="m46.55 13.83h2.477"/>
+    <path d="m43.5 19.5 1.982 1.981"/>
+    <path d="m31.5 6.501-1.982-1.981"/>
    </g>
   </g>
-  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5292">
-   <path d="m4.233 11.91v0.7936"/>
-   <path d="m2.381 11.64v0.7937"/>
-   <path d="m6.085 12.17v0.7936"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+   <path d="m16 45.01v2.999"/>
+   <path d="m8.998 43.99v3"/>
+   <path d="m23 45.99v2.999"/>
   </g>
  </g>
 </svg>
