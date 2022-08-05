@@ -1,0 +1,16 @@
+<svg width="50" height="50" version="1.1" viewBox="0 0 13.23 13.23" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-1.531e-6 .2646)" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(.2646 -2.381)">
+   <path d="m10.72 10.45 1.323-1.323v-1.058l-1.058-1.058-2.646-1.323-1.058-2.117-0.7938-0.7938-2.381 1e-7 -0.5292 0.5292-0.7938 1.587-1.058 0.5292-1.058 1.058 2e-7 2.646 1.323 1.323z" fill="#fff" stroke-width=".7938"/>
+   <path d="m8.599 5.953-1.587-0.7938-2.117 1.058-0.3969 0.7937" fill="none" stroke-width=".5292"/>
+  </g>
+  <g fill="#fff" stroke-width=".5292px">
+   <line class="cls-2" x1="8.467" x2="8.467" y1="10.32" y2="9.26"/>
+   <line class="cls-2" x1="3.175" x2="3.175" y1="10.32" y2="9.26"/>
+   <line class="cls-2" x1="2.646" x2="3.704" y1="9.79" y2="9.79"/>
+   <line class="cls-2" x1="7.938" x2="8.996" y1="9.79" y2="9.79"/>
+   <line class="cls-2" x1="5.292" x2="6.35" y1="11.91" y2="11.91"/>
+   <line class="cls-2" x1="5.821" x2="5.821" y1="12.44" y2="11.38"/>
+  </g>
+ </g>
+</svg>
